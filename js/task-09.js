@@ -13,4 +13,3 @@ buttonChange.addEventListener("click", (event) => {
   colorBody.style.backgroundColor = randomColor;
 });
 
-getRandomHexColor();
